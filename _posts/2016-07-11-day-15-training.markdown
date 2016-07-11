@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 15: Training"
-date:   2016-07-11 21:00:00 +0200
+date:   2016-07-11 09:00:00 +0200
 categories: jekyll update
 ---
 
