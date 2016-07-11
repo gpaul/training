@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Day 12: Rest"
+date:   2016-07-08 21:00:00 +0200
+categories: jekyll update
+---
+
+Did nothing today, just chilled out. Doing some bouldering tomorrow with Phlip.

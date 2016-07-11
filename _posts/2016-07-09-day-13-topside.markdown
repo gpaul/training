@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Day 13: Topside"
+date:   2016-07-09 21:00:00 +0200
+categories: jekyll update
+---
+
+Wow! Phlip and I spent the afternoon trying Bubka (7b) at Seaside, Topside. What a great problem! We've both got all the moves down and just need to do a link when fresh. Very sweet.
