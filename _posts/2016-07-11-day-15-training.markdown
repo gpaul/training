@@ -7,7 +7,7 @@ categories: jekyll update
 
 I went to the gym again this morning. I was still stiff from Bubka and apart from three 'wide arm sideways leg lifts' each side I stayed away from pullups.
 
-I did some good leg stretching and 5x12 leg lifts with 1kg weights on my ankles. Didn't really fell it so next time I'll do 5x16 lifts and see how that goes.
+I did some good leg stretching and 5x12 leg lifts with 1kg weights on my ankles. Didn't really feel it so next time I'll do 5x16 lifts and see how that goes.
 
 In between sets of leg lifts I took the semi-ball thing and stood with leg bent on the ball of my foot and tried to balance for 60 seconds before doing more lifts. I ended up doing 2x1min sets per leg. That *really* burns in the leg and foot. Good stuff!
 
