@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 7: Rest"
+title:  "Day 8: Rest"
 date:   2016-07-04 21:00:00 +0200
 categories: jekyll update
 ---
