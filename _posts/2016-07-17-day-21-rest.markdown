@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Day 21: Rest"
+date:   2016-07-17 21:36:00 +0200
+categories: jekyll update
+---
+
+Resting
